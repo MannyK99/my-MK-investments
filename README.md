@@ -1,2 +1,2 @@
-# my-MK--investments
+# my-MK-investments
 Form for investing
